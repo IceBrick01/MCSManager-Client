@@ -4,3 +4,7 @@
 ```
 wget -qO- https://github.com/icebrick01/mcsmanager-client/raw/master/setup.sh | bash
 ```
+## 使用
+```
+mcsm
+```
