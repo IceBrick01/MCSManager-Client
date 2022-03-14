@@ -22,7 +22,7 @@ echo "+----------------------------------------------------------------------
 
 echo "[↓] 下載 MCSManager Client..."
 rm -f /opt/mcsm.sh
-wget -P /opt https://shell.ea0.cn/mcsm.sh
+wget -P /opt https://raw.githubusercontent.com/IceBrick01/MCSManager-Client/main/mcsm.sh
 chmod -R 755 /opt/mcsm.sh
 
 echo "[+] 安裝 MCSManager Client..."
