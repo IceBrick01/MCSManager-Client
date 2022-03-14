@@ -1,3 +1,4 @@
+#!/bin/bash
 printf "\033c"
 
 Red_Error() {
