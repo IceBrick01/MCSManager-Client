@@ -8,7 +8,7 @@ wget -qO- https://gitee.com/mcsmanager/script/raw/master/setup.sh |bash
 ```
 如已安裝，執行以下命令即可安裝
 ```
-wget -qO- https://github.com/icebrick01/mcsmanager-client/raw/master/setup.sh | bash
+wget -qO- https://raw.githubusercontent.com/IceBrick01/MCSManager-Client/main/mcsm.sh | bash
 ```
 ## 使用
 ```
